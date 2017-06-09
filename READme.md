@@ -20,6 +20,6 @@ In order to generate graph of the X, Y coordinate, the values computed from the 
 
 For a copy of the entire Documentation, please contact me through [email](amanadhav@gmail.com) or visit [BASEF](http://basef.ca/2017StudentAwardsIndex).
 
-![Screenshot](cake.png)
+![Screenshot](cake.PNG)
 
 
