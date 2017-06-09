@@ -18,6 +18,6 @@ This particular plot is effectively used to visualize trilateration and intersec
 Plot 2 : X, Y coordinate location 
 In order to generate graph of the X, Y coordinate, the values computed from the trilateration algorithm are then converted to data points that needs to be graphed.
 
-For a copy of the entire Documentation, please contact me through [email](amanadhav@gmail.com).
+For a copy of the entire Documentation, please contact me through [email](amanadhav@gmail.com) or visit [BASEF](http://basef.ca/2017StudentAwardsIndex).
 
 
