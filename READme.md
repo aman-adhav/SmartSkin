@@ -1,8 +1,6 @@
 The safer alternative to Smart skin : The design and fabrication of piezoresistive trackpad to simulate “touch” for bionic limbs and robot parts
  
 Aman Adhav                                                                                                                       
-Bay Area Science Fair, 2017
- 
  
 Currently, Smart skin technologies are primarily being used as sensors and to control devices. However, using Smart skin technology is problematic: the metals and chemicals used in Smart skins can enter the bloodstream, potentially leading to major health problems such as metal poisoning, Alzheimer's disease, and cancer. This project presents the design and fabrication of a piezoresistive flexible surface for quantifying “touch” on surfaces such as the human skin. The piezoresistive fabric is a transducer that senses touch and pressure. Results show, the signals from the surface can be converted into Euclidean coordinates using a multilateration algorithm. As an illustration of the concept, were initialized and programmed to control radio frequency devices when touched.
 
@@ -22,15 +20,6 @@ For a copy of the entire Documentation, please contact me through [email](amanad
 
 ![Screenshot](cake.PNG)
 
-By:
-
-Aman Adhav
-
-White Oaks secondary School
-
-Oakville, Ontario, Canada
-
- March 31st 2017
 
 Table of Contents :
 
