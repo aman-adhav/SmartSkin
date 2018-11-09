@@ -5,10 +5,6 @@
 
 Table of Contents :
 
-[Abstract](#h.kcbmtv7yj4cz)        [3](#h.kcbmtv7yj4cz)
-
-[Acknowledgements :](#h.pff8krqzrakn)        [4](#h.pff8krqzrakn)
-
 [Introduction](#h.fcsnkn2dcsnl)        [6](#h.fcsnkn2dcsnl)
 
 [Motivation : Alternative to the conventional rigid
@@ -58,10 +54,7 @@ parts
 
  
 
-Aman Adhav                                                              
-                                                       
-
-Bay Area Science Fair, 2017
+Aman Adhav <a href="https://linkedin.com/in/amanadhav"><img src="https://raw.githubusercontent.com/jrobchin/phormatics/master/screenshots/linkedin.png" height="20px"></a> <a href="https://github.com/dreamincodeforlife"><img src="https://raw.githubusercontent.com/jrobchin/phormatics/master/screenshots/github.png" height="20px"></a>                             
 
 Currently, Smart skin technologies are primarily being used as sensors
 and to control devices. However, using Smart skin technology is
@@ -75,18 +68,6 @@ Results show, the signals from the surface can be converted into
 Euclidean coordinates using a multilateration algorithm. As an
 illustration of the concept, were initialized and programmed to control
 radio frequency devices when touched.
-
-Acknowledgements : {#h.pff8krqzrakn .c12}
-==================
-
-Mike McBrien
-
-Ajita Adhav
-
-Dr. Adrian Freed professor, Center of Music and Audio Technologies
-(CNMAT) University of Berkley California
-
-White Oaks Secondary School, my family and friends
 
 Introduction {#h.fcsnkn2dcsnl .c12}
 ============
