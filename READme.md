@@ -49,20 +49,6 @@ calculations](#h.qh1hbrg1kanv)        [26](#h.qh1hbrg1kanv)
 
 [Future Direction](#h.2fwkvofk8iin)        [28](#h.2fwkvofk8iin)
 
-[Appendix A : Arduino four corner sensing
-code](#h.xr3v4os4bxy5)        [29](#h.xr3v4os4bxy5)
-
-[Appendix B : Arduino X, Y coordinate determination
-program](#h.fqsf4njyitfu)        [30](#h.fqsf4njyitfu)
-
-[Appendix C : Processing circular intersection
-visualization](#h.xci3z3ikphjx)        [31](#h.xci3z3ikphjx)
-
-[Appendix D : Processing trilateration X,Y point
-visualization](#h.jvcp4wlz8hvj)        [32](#h.jvcp4wlz8hvj)
-
-[References](#h.rah8j0ua6t29)        [34](#h.rah8j0ua6t29)
-
 Abstract {#h.kcbmtv7yj4cz .c30}
 ========
 
